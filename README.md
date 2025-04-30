@@ -6,7 +6,7 @@ The table should be sorted by increasing time in milliseconds.
 You should be running on a single H100 with batch size `1`, sequence length `16384`, `d_model=1024` and `num_heads=16`.
 
 The top 3 submissions will receive a prize at the end of the quarter.
-To make this fair, we will reorder the top 5 scoring students based on our reproduced training runs.
+To make this fair, we will reorder the top 5 scoring students based on our own tests.
 **Make sure you save a snapshot of your best code so it can be reproduced by us!**
 We will reach out to the top 5 students after results have stabilized.
 
