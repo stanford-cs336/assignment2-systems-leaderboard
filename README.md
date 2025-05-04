@@ -17,8 +17,9 @@ In your pull request description, you should also include:
 
 ## FlashAttention 2 Forward + Backward Leaderboard
 
-| Name           | Forward + Backward Time (ms) | Verification status (leave empty) |
-| :------------- | ---------------------------: | --------------------------------: |
-| Varun Desai    |                     18.06ms  |                                   | 
-| Stephen Ge     |                     28.45 ms |                                   |
-| naive baseline |                        80 ms |                          Verified |
+| Name            | Forward + Backward Time (ms) | Verification status (leave empty) |
+| :-------------- | ---------------------------: | --------------------------------: |
+| Herman Brunborg |                      5.286ms |                                   | 
+| Varun Desai     |                      18.06ms |                                   | 
+| Stephen Ge      |                     28.45 ms |                                   |
+| naive baseline  |                        80 ms |                          Verified |
