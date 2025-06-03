@@ -19,8 +19,9 @@ In your pull request description, you should also include:
 
 | Name            | Forward + Backward Time (ms) | Verification status (leave empty) |
 | :-------------- | ---------------------------: | --------------------------------: |
-| Herman Brunborg |                      5.286ms |                                   | 
-| Varun Desai     |                     12.40ms  |                                   | 
-| Prateek Varshney|                     17.18ms  |                                   | 
-| Stephen Ge      |                     28.45 ms |                                   |
+| Herman Brunborg |                     5.364ms  |                          Verified | 
+| Matthew Noto    |                     6.778ms  |                          Verified |
+| Varun Desai     |                     11.07ms  |                          Verified | 
+| Prateek Varshney|                     22.59ms  |                          Verified | 
+| Stephen Ge      |                     28.45ms  |                                   |
 | naive baseline  |                        80 ms |                          Verified |
