@@ -21,6 +21,7 @@ In your pull request description, you should also include:
 | :-------------- | ---------------------------: | --------------------------------: |
 | Herman Brunborg |                     5.364ms  |                          Verified | 
 | Matthew Noto    |                     6.778ms  |                          Verified |
+| Phanindra Moganti |                     7.499ms  |                                   |
 | Varun Desai     |                     11.07ms  |                          Verified | 
 | Prateek Varshney|                     22.59ms  |                          Verified | 
 | Stephen Ge      |                     28.45ms  |                                   |
