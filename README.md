@@ -32,14 +32,14 @@ We expect leaderboard submissions to beat the naive baseline of 10 seconds.
 
 ## Full Training Step Leaderboard
 
-Stanford class leaderboard (Spring 2026) - 2 B200 GPUs - Full Training Loop
+Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 
 | Name           | Training Step Time (ms) | Link | Verification status (leave empty) |
 | :------------- | ----------------------: | ---: | --------------------------------: |
 | naive baseline |                10000 ms |      |                          Verified |
 
 <details markdown="1">
-<summary>Global leaderboard (Spring 2026) - 2 B200 GPUs - Full Training Loop</summary>
+<summary>Global leaderboard (Spring 2026) - 2 B200 GPUs</summary>
 
 | Name           | Training Step Time (ms) | Link | Verification status (leave empty) |
 | :------------- | ----------------------: | ---: | --------------------------------: |
