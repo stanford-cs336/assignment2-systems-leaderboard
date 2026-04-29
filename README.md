@@ -36,6 +36,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 
 | Name           | Training Step Time (ms) | Verification status (leave empty) |
 | :------------- | ----------------------: | --------------------------------: |
+| Tushar Dalmia  |                 8133 ms |                                   | 
 | naive baseline |                10000 ms |                          Verified |
 
 <details markdown="1">
