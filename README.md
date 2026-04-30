@@ -39,6 +39,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Tim Chen  |                 6199 ms |                                   | 
 | Aniket Gupta   |                 6237 ms |                                   | 
 | Tushar Dalmia  |                 8133 ms |                                   | 
+| Tanush Talati  |                 8794 ms |                                   | 
 | Javier Nieto  |                 8829 ms |                                   | 
 | Jason Meng     |                 9555 ms |                                   | 
 | naive baseline |                10000 ms |                          Verified |
