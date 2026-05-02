@@ -36,7 +36,8 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 
 | Name           | Training Step Time (ms) | Verification status (leave empty) |
 | :------------- | ----------------------: | --------------------------------: |
-| Weiran Xu      |                 6089 ms |                                   | 
+| Tushar Aggarwal|                 5584 ms |                                   | 
+| Weiran Xu      |                 6089 ms |                                   |
 | Tim Chen       |                 6199 ms |                                   | 
 | Aniket Gupta   |                 6237 ms |                                   | 
 | Adam Alhousiki |                 6469 ms |                                   |
