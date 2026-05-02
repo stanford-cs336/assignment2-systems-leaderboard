@@ -36,6 +36,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 
 | Name           | Training Step Time (ms) | Verification status (leave empty) |
 | :------------- | ----------------------: | --------------------------------: |
+| Max Liu        |                 3868 ms |                                   |
 | Nick Rui       |                 4998 ms |                                   | 
 | Tushar Aggarwal|                 5584 ms |                                   | 
 | Weiran Xu      |                 6089 ms |                                   |
