@@ -40,20 +40,24 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Nick Rui       |                 4998 ms |                                   | 
 | Aayush Gupta   |                 5174 ms |                                   |
 | Tushar Aggarwal|                 5584 ms |                                   | 
+| Asanshay Gupta |                 5745 ms |                                   |
 | Weiran Xu      |                 6089 ms |                                   |
 | Tim Chen       |                 6199 ms |                                   | 
 | Aniket Gupta   |                 6237 ms |                                   | 
 | Adam Alhousiki |                 6469 ms |                                   |
 | Keshav Patel Keval |             6476 ms |                                   |
 | Shiye Su       |                 7006 ms |                                   | 
+| Thomas Li      |                 7190 ms |                                   |
 | Sara Kothari   |                 7431 ms |                                   | 
 | Tushar Dalmia  |                 8133 ms |                                   | 
+| Jiaming Shen   |                 8453 ms |                                   |
 | Qinan Yu       |                 8503 ms |                                   |
 | Tanush Talati  |                 8794 ms |                                   | 
 | Javier Nieto   |                 8829 ms |                                   | 
-| Silin Du       |                 9083 ms |                                   | 
+| Silin Du       |                 9083 ms |                                   |
 | Yufei Liu      |                 9277 ms |                                   | 
-| Jason Meng     |                 9555 ms |                                   | 
+| Jenn Wang      |                 9542 ms |                                   |
+| Jason Meng     |                 9555 ms |                                   |
 | naive baseline |                10000 ms |                          Verified |
 
 <details markdown="1">
