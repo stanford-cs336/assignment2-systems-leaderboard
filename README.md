@@ -36,6 +36,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 
 | Name           | Training Step Time (ms) | Verification status (leave empty) |
 | :------------- | ----------------------: | --------------------------------: |
+| Aayush Gupta   |                 5174 ms |                                   |
 | Tim Chen       |                 6199 ms |                                   | 
 | Aniket Gupta   |                 6237 ms |                                   | 
 | Sara Kothari   |                 7431 ms |                                   | 
