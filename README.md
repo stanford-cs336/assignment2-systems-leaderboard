@@ -46,6 +46,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Adam Alhousiki |                 6469 ms |                                   |
 | Keshav Patel Keval |             6476 ms |                                   |
 | Shiye Su       |                 7006 ms |                                   | 
+| Thomas Li      |                 7190 ms |                                   |
 | Sara Kothari   |                 7431 ms |                                   | 
 | Tushar Dalmia  |                 8133 ms |                                   | 
 | Jiaming Shen   |                 8453 ms |                                   |
