@@ -40,6 +40,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Aniket Gupta   |                 6237 ms |                                   | 
 | Sara Kothari   |                 7431 ms |                                   | 
 | Tushar Dalmia  |                 8133 ms |                                   | 
+| Qinan Yu       |                 8503 ms |                                   |
 | Tanush Talati  |                 8794 ms |                                   | 
 | Javier Nieto   |                 8829 ms |                                   | 
 | Silin Du       |                 9083 ms |                                   | 
