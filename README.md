@@ -48,6 +48,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Shiye Su       |                 7006 ms |                                   | 
 | Sara Kothari   |                 7431 ms |                                   | 
 | Tushar Dalmia  |                 8133 ms |                                   | 
+| Jiaming Shen   |                 8453 ms |                                   |
 | Qinan Yu       |                 8503 ms |                                   |
 | Tanush Talati  |                 8794 ms |                                   | 
 | Javier Nieto   |                 8829 ms |                                   | 
