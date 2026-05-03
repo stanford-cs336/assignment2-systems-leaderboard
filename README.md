@@ -65,6 +65,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Daniel Lee     |                 8752 ms |                                   |
 | Tanush Talati  |                 8794 ms |                                   |
 | Javier Nieto   |                 8829 ms |                                   | 
+| Jiaxin Fang    |                 8903 ms |                                   |
 | Silin Du       |                 9083 ms |                                   |
 | Yufei Liu      |                 9277 ms |                                   | 
 | Jenn Wang      |                 9542 ms |                                   |
