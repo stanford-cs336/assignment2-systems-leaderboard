@@ -42,6 +42,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Naveen Kannan  |                 4757 ms |                                   |
 | Nick Rui       |                 4998 ms |                                   | 
 | Aayush Gupta   |                 5174 ms |                                   |
+| Nicole Ma      |                 5364 ms |                                   |
 | Tushar Aggarwal|                 5584 ms |                                   | 
 | Asanshay Gupta |                 5745 ms |                                   |
 | Weiran Xu      |                 6089 ms |                                   |
