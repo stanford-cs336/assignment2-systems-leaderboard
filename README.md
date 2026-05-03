@@ -59,7 +59,8 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Qinan Yu       |                 8503 ms |                                   |
 | Yuheng Wu      |                 8729 ms |                                   |
 | Tanush Talati  |                 8794 ms |                                   |
-| Javier Nieto   |                 8829 ms |                                   | 
+| Javier Nieto   |                 8829 ms |                                   |
+| Charles Ding   |                 8872 ms |                                   |
 | Silin Du       |                 9083 ms |                                   |
 | Yufei Liu      |                 9277 ms |                                   | 
 | Jenn Wang      |                 9542 ms |                                   |
