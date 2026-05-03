@@ -54,6 +54,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Thomas Li      |                 7190 ms |                                   |
 | Sara Kothari   |                 7431 ms |                                   | 
 | Tushar Dalmia  |                 8133 ms |                                   | 
+| Alexandra Kim  |                 8135 ms |                                   |
 | Eric Chen      |                 8158 ms |                                   |
 | Jiaming Shen   |                 8453 ms |                                   |
 | Qinan Yu       |                 8503 ms |                                   |
