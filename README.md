@@ -39,9 +39,11 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Keshav Patel Keval |             3837 ms |                                   |
 | Aayush Gupta   |                 3852 ms |                                   |
 | Max Liu        |                 3868 ms |                                   |
+| Kesavan Ramkarishnan |           4247 ms |                                   |
 | Bodo Wirth     |                 4318 ms |                                   |
 | Naveen Kannan  |                 4757 ms |                                   |
 | Nick Rui       |                 4998 ms |                                   | 
+| Nicole Ma      |                 5364 ms |                                   |
 | Tushar Aggarwal|                 5584 ms |                                   | 
 | Asanshay Gupta |                 5745 ms |                                   |
 | Weiran Xu      |                 6089 ms |                                   |
@@ -50,14 +52,17 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Adam Alhousiki |                 6469 ms |                                   |
 | James Chen     |                 6867 ms |                                   |
 | Haoyue Xiao    |                 6792 ms |                                   |
+| Nick Jiang     |                 6970 ms |                                   |
 | Shiye Su       |                 7006 ms |                                   | 
 | Thomas Li      |                 7190 ms |                                   |
 | Sara Kothari   |                 7431 ms |                                   | 
 | Tushar Dalmia  |                 8133 ms |                                   | 
+| Alexandra Kim  |                 8135 ms |                                   |
 | Eric Chen      |                 8158 ms |                                   |
 | Jiaming Shen   |                 8453 ms |                                   |
 | Qinan Yu       |                 8503 ms |                                   |
 | Yuheng Wu      |                 8729 ms |                                   |
+| Daniel Lee     |                 8752 ms |                                   |
 | Tanush Talati  |                 8794 ms |                                   |
 | Javier Nieto   |                 8829 ms |                                   | 
 | Silin Du       |                 9083 ms |                                   |
