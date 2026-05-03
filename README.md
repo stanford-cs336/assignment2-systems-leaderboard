@@ -50,6 +50,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Adam Alhousiki |                 6469 ms |                                   |
 | James Chen     |                 6867 ms |                                   |
 | Haoyue Xiao    |                 6792 ms |                                   |
+| Nick Jiang     |                 6970 ms |                                   |
 | Shiye Su       |                 7006 ms |                                   | 
 | Thomas Li      |                 7190 ms |                                   |
 | Sara Kothari   |                 7431 ms |                                   | 
