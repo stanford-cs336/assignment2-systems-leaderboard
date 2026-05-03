@@ -63,6 +63,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Yufei Liu      |                 9277 ms |                                   | 
 | Jenn Wang      |                 9542 ms |                                   |
 | Jason Meng     |                 9555 ms |                                   |
+| Subha Vadlamannati |             9805 ms |                                   |
 | naive baseline |                10000 ms |                          Verified |
 
 <details markdown="1">
