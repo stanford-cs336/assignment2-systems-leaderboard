@@ -46,6 +46,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Nicole Ma      |                 5364 ms |                                   |
 | Tushar Aggarwal|                 5584 ms |                                   | 
 | Asanshay Gupta |                 5745 ms |                                   |
+| Varun Madan    |                 5993 ms |                                   |
 | Weiran Xu      |                 6089 ms |                                   |
 | Tim Chen       |                 6199 ms |                                   | 
 | Aniket Gupta   |                 6237 ms |                                   | 
