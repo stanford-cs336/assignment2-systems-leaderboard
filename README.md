@@ -37,12 +37,12 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Name           | Training Step Time (ms) | Verification status (leave empty) |
 | :------------- | ----------------------: | --------------------------------: |
 | Keshav Patel Keval |             3837 ms |                                   |
+| Aayush Gupta   |                 3852 ms |                                   |
 | Max Liu        |                 3868 ms |                                   |
 | Kesavan Ramkarishnan |           4247 ms |                                   |
 | Bodo Wirth     |                 4318 ms |                                   |
 | Naveen Kannan  |                 4757 ms |                                   |
 | Nick Rui       |                 4998 ms |                                   | 
-| Aayush Gupta   |                 5174 ms |                                   |
 | Nicole Ma      |                 5364 ms |                                   |
 | Tushar Aggarwal|                 5584 ms |                                   | 
 | Asanshay Gupta |                 5745 ms |                                   |
