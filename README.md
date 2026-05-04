@@ -49,6 +49,7 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Gorn (Nattaput) Namchittai |     5993 ms |                                   |
 | Varun Madan    |                 5993 ms |                                   |
 | Weiran Xu      |                 6089 ms |                                   |
+| James Liu      |                 6172 ms |                                   |
 | Tim Chen       |                 6199 ms |                                   | 
 | Aniket Gupta   |                 6237 ms |                                   | 
 | Adam Alhousiki |                 6469 ms |                                   |
