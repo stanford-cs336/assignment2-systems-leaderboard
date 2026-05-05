@@ -58,7 +58,8 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Nick Jiang     |                 6970 ms |                                   |
 | Shiye Su       |                 7006 ms |                                   | 
 | Thomas Li      |                 7190 ms |                                   |
-| Sara Kothari   |                 7431 ms |                                   | 
+| Sara Kothari   |                 7431 ms |                                   |
+| Lenard Strahringer    |          7979 ms |                                   |
 | Tushar Dalmia  |                 8133 ms |                                   | 
 | Alexandra Kim  |                 8135 ms |                                   |
 | Eric Chen      |                 8158 ms |                                   |
