@@ -42,9 +42,9 @@ Stanford class leaderboard (Spring 2026) - 2 B200 GPUs
 | Kesavan Ramkarishnan |           4247 ms |                                   |
 | Bodo Wirth     |                 4318 ms |                                   |
 | Naveen Kannan  |                 4757 ms |                                   |
+| Tushar Aggarwal|                 4906 ms |                                   | 
 | Nick Rui       |                 4998 ms |                                   | 
 | Nicole Ma      |                 5364 ms |                                   |
-| Tushar Aggarwal|                 5584 ms |                                   | 
 | Asanshay Gupta |                 5745 ms |                                   |
 | Gorn (Nattaput) Namchittai |     5993 ms |                                   |
 | Varun Madan    |                 5993 ms |                                   |
